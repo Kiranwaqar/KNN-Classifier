@@ -30,6 +30,10 @@ This project demonstrates how to implement a **K-Nearest Neighbors (KNN)** class
 ## Demo
 
 
+https://github.com/user-attachments/assets/ba553f95-1e2b-4322-b2da-80152863ef87
+
+
+
 
 ---
 
